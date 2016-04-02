@@ -1,0 +1,5 @@
+# Run http server from the command line
+python -m SimpleHTTPServer
+
+# In your browser
+http://localhost:8000
