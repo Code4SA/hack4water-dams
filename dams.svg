@@ -63,7 +63,8 @@
        transform="matrix(1,0,0,-1,903.35716,1012.7958)"
        cx="-627.14288"
        cy="482.36221"
-       r="155.71428" />
+       r="155.71428"
+       class="dam" />
     <path
        style="opacity:1;fill:#f4e3d7;fill-opacity:1;fill-rule:nonzero;stroke:#506565;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1"
        id="segment-2"
