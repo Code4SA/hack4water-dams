@@ -16,6 +16,7 @@ function display_overlay(dam_name, level) {
     }
     /* end edit */
 
+    d3.select('.dam').style('display', 'none');
     var dam_id = '#' + dam_name + '-' + suffix;
     var node = container.select(dam_id).style('display', 'block');
     container.select('#' + dam_name + '-text').text(level + '%');
